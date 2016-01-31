@@ -1,0 +1,5 @@
+:package-type:chobakdoc:
+:package-name:modulary-main:
+:main-file:maintoc.xml:
+:temp-file:fullset.xml:
+:img-temp:images:
